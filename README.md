@@ -1,17 +1,4 @@
-# SummerTime - Text Summarization Toolkit for Non-experts
-
-<p align="left">
-    <a href="https://github.com/Yale-LILY/SummerTime/actions">
-        <img alt="CI" src="https://github.com/Yale-LILY/SummerTime/workflows/CI/badge.svg?event=push&branch=main">
-    </a>
-    <a href="https://github.com/allenai/allennlp/blob/main/LICENSE">
-        <img alt="License" src="https://img.shields.io/github/license/Yale-LILY/SummerTime.svg?color=blue&cachedrop">
-    </a>
-    <a href="https://colab.research.google.com/drive/19tPdBgaJ4_QjSiFyoxtpnFGW4OG1gTec?usp=sharing">
-        <img alt="Open In Colab" src="https://colab.research.google.com/assets/colab-badge.svg">
-    </a>
-    <br/>
-</p>
+# Summarizor_BART - Text Summarization Toolkit even for Non-experts
 
 
 A library to help users choose appropriate summarization tools based on their specific tasks or needs. Includes models, evaluation metrics, and datasets.
